@@ -90,8 +90,7 @@
     }
   }
   
-  @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
-  @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+  
 
 .ft14 {
 font-size: 44px !important;
@@ -108,8 +107,8 @@ font-size: 60px !important;
 .bg-bl.clr-prl{color:purple;}
 
 .bg-blue{
-background-color: b9#15e0 !important;
-  color:#1b95;
+background-color: b9#15e0;
+
 }
 
 i{
